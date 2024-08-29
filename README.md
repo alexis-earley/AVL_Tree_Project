@@ -17,4 +17,4 @@ This furthered my understanding of concepts such as:
   - Each branch can be rearranged in four different ways: left, right, left-right, and right-left
   - In some cases, the entire tree might be rearranged, with elements shifting multiple times with varying rotations
    
-Final score: 100%
+Final score: 100%.
