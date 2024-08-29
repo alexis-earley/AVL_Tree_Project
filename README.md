@@ -10,11 +10,11 @@ This furthered my understanding of concepts such as:
 - Creating test cases, especially edge cases
     - Our grade included 10 test cases that were unknown to us
     - We had to be robust and think of all possibe scenarios to make sure our code ran properly
-  - The math behind data structures as a whole
-      - In the case of AVL trees, they must maintain a threshold of +/- 1 to be balanced
-      - In other words, one bottom branch of the AVL tree cannot dip more than one level below the other
-      - In cases where the balance factor becomes 2, the tree must be rearranged
-      - Each branch can be rearranged in four different ways: left, right, left-right, and right-left
-      - In some cases, the entire tree might be rearranged, with elements shifting multiple times with varying rotations
+- The math behind data structures as a whole
+  - In the case of AVL trees, they must maintain a threshold of +/- 1 to be balanced
+  - In other words, one bottom branch of the AVL tree cannot dip more than one level below the other
+  - In cases where the balance factor becomes 2, the tree must be rearranged
+  - Each branch can be rearranged in four different ways: left, right, left-right, and right-left
+  - In some cases, the entire tree might be rearranged, with elements shifting multiple times with varying rotations
    
 Final score: 100%
