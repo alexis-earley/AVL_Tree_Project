@@ -14,5 +14,7 @@ This furthered my understanding of concepts such as:
   - In cases where the balance factor becomes 2, the tree must be rearranged.
   - Each branch can be rearranged in four different ways: left, right, left-right, and right-left.
   - In some cases, the entire tree might be rearranged, with elements shifting multiple times with varying rotations.
-   
+
+Both the instructions and code are contained in this repository.
+
 Final score: 100%
