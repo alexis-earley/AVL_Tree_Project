@@ -8,13 +8,7 @@ This furthered my understanding of concepts such as:
     - Each node pointed to its previous and next node
     - These parameters constantly had to be adjusted during tree manipulation
 - The Rule of Five
-      - This rule states that more complicated classes (such as custom data structures) should contain all of the following functions to optimize code and prevent exceptions:
-          - A copy assignment operator
-          - A copy constructor
-          - A destructor
-          - A move assigment operator
-          - A move constructor
-      - I had practice creating these within these project
+      - This rule states that more complicated classes (such as custom data structures) should contain all of the following functions to optimize code and prevent exceptions: a copy assignment operator, copy constructor, destructor, move assigment operator, and a move constructor. I had practice creating these within these project.
 - Creating test cases, especially edge cases
     - Our grade included 10 test cases that were unknown to us
     - We had to be robust and think of all possibe scenarios to make sure our code ran properly
